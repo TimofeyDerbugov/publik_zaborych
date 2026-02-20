@@ -262,7 +262,7 @@ li {
 /*     Home     */
 /****************/
 .home {
-	background-image: url(../assets/images/home.jpg);
+	background-image: url(../assets/images/about.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -721,3 +721,4 @@ li {
 		background-size: 22px 34px;
 	}
 }
+
